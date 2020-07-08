@@ -1,0 +1,2 @@
+# FirstReoccuringCharacter
+Powershell
