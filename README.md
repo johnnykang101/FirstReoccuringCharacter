@@ -1,3 +1,3 @@
 # FirstReoccuringCharacter
 
-Created a function that will return the first reoccuring character in a string
+Created a powershell function that will return the first reoccuring character in a string
